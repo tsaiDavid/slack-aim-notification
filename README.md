@@ -6,6 +6,8 @@ Bringing back your fondest memories with Slack + AIM notification sound
 
 1. Locate the directory where your Slack resources are.
     * MacOS: `/Applications/Slack.app/Contents/Resources`
+    
+    ![](https://github.com/tsaiDavid/slack-aim-notification/blob/master/resources.png)
 
 2. Backup the original notification sound you will be replacing
 
@@ -23,10 +25,12 @@ $ mv hummus.mp3 hummus.backup.mp3
 $ mv ~/Downloads/aim_receive.mp3 ~/Applications/Slack.app/Contents/Resources/hummus.mp3
 ```
 
-4. Set
+4. Select your newly replaced Slack sound from settings
 
+![](https://github.com/tsaiDavid/slack-aim-notification/blob/master/slack_settings.png)
 
 5. Enjoy!
+   * If you run into issues - try restarting Slack / clearing its cache
 
 ## Credits
   * AOL Instant Messenger
