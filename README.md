@@ -34,4 +34,5 @@ $ mv ~/Downloads/aim_receive.mp3 ~/Applications/Slack.app/Contents/Resources/hum
 
 ## Credits
   * AOL Instant Messenger
+  * [Make Front End Shit Again](https://makefrontendshitagain.party/)
   * [Slack Black Theme by widget-](https://github.com/widget-/slack-black-theme)
